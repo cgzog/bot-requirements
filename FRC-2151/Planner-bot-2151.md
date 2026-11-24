@@ -1,4 +1,3 @@
-```markdown
 These are the current requirements for the Planner → Planner - Zog routine, taken from its saved instructions.
 
 ## Schedule and access
@@ -62,4 +61,3 @@ Ties sort alphabetically by title, then by task id. The visible order is checked
 
 ## Reporting
 After every run, I send you the counts of posts deleted and posted, plus new, dropped, or reopened tasks, bucket or label changes, tasks with new chat, posts that included notes, failed deletions, and any blocker.
-```

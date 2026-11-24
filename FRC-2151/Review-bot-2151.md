@@ -1,6 +1,3 @@
-Here are the current requirements as raw Markdown you can copy:
-
-```md
 # Review-bot 2151 — Onshape Design Review Requirements
 
 ## Scope
@@ -76,4 +73,3 @@ Here are the current requirements as raw Markdown you can copy:
 
 ## Schedule
 - No recurring runs are set up. Runs happen only when Chris asks.
-```

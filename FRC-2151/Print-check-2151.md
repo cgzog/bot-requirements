@@ -1,4 +1,3 @@
-```markdown
 # 3D Print File Naming Check: Requirements
 
 ## Scope
@@ -77,4 +76,3 @@ Deleted or moved files never cause a post.
 - Only these three kinds of posts made by Chris's account are ever edited or deleted.
 - Results go only to the Teams channel.
 - Chris gets a message in this chat only when a run fails, such as a sign-in block or a post that can't be made.
-```
