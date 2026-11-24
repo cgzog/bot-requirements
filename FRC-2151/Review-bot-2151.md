@@ -1,7 +1,7 @@
 # Review-bot 2151 — Onshape Design Review Requirements
 
 ## Scope
-- Onshape classroom **Robotics 2151**, account `chris.herzog@gmail.com` ("zog").
+- Onshape classroom **Robotics 2151**, account `xxx@gmail.com` ("xxx").
 - Review every document in these folders, including all subfolders:
   - `Biocore 2027`
   - `Utility`
@@ -39,7 +39,7 @@
 - **Skip ALL checks** when a document, Part Studio or folder name ends in `(skip)` (any case). This covers it and everything inside it, for both Onshape folders and tab folders.
 
 ## Teams posting
-- One post per flagged document in **Robotics Team 2151 > Design Reviews**, posted as Chris through the browser.
+- One post per flagged document in **Robotics Team 2151 > Design Reviews**, posted as xxx through the browser.
 - **Subject:** `Review-bot 2151 review comments for "<document name>"`
 - **Body:**
   - `Onshape document: <link>`
@@ -49,16 +49,8 @@
 
 | Onshape name | Teams mention |
 |---|---|
-| Jaden Husband | husband, Jaden Tejaun |
-| Mario Guerra | Guerra, Mario |
-| Dan Grobe Sachs | dgsachs |
-| me (Chris) | chris.herzog |
-| Leo Giron | Giron, Leo |
-| Vale | Secundino, Valeria |
-| Josh | Maddela, Joshua |
-| Jared Ibarra | Ibarra, Jared |
-| Jaycee Gene Pascua | Pascua, Jaycee Gene Ramones |
-| Natahel Herrera-Lopez | Herrera Lopez, Natahel Natahel |
+
+Removed name mappings
 
 - **Cleanup:** after a run's new posts are confirmed, delete only my own review posts older than 5 days. Never touch anyone else's posts.
 - Never post anything else in Teams.
@@ -67,9 +59,9 @@
 ## Hard rules and method
 - **Read-only:** never change any Onshape document. That means no edits, renames, material changes or saved dialogs.
 - Open a sketch only when a rule actually requires it, and never change anything in it.
-- If a new rule would require opening a sketch, raise that with Chris before adding the rule.
+- If a new rule would require opening a sketch, raise that with xxx before adding the rule.
 - In large documents, open each tab by its direct element URL and never type or click in the canvas or tab bar, because Onshape keyboard shortcuts can fire.
 - Sign-ins and codes come only through secure forms, never in chat.
 
 ## Schedule
-- No recurring runs are set up. Runs happen only when Chris asks.
+- No recurring runs are set up. Runs happen only when xxx asks.
