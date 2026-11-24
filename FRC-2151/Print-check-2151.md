@@ -73,6 +73,6 @@ Deleted or moved files never cause a post.
   - Each file's name and Modified time.
   - The failing files and their reasons.
   - The new-files posts and when they were posted.
-- Only these three kinds of posts made by Chris's account are ever edited or deleted.
+- Only these three kinds of posts made by xxx's account are ever edited or deleted.
 - Results go only to the Teams channel.
-- Chris gets a message in this chat only when a run fails, such as a sign-in block or a post that can't be made.
+- xxx gets a message in this chat only when a run fails, such as a sign-in block or a post that can't be made.
