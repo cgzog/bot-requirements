@@ -2,10 +2,10 @@ These are the current requirements for the Planner → Planner - Zog routine, ta
 
 ## Schedule and access
 - The main run is daily at 5:51 AM CT, weekends included. A catch-up run around 7:15 AM CT finishes anything left unfinished.
-- Teams web is used in my browser as chris.herzog@gmail.com, a guest in the Dist 209 org. The Teams connector can't reach that org.
+- Teams web is used in my browser as xxx@gmail.com, a guest in the Dist 209 org. The Teams connector can't reach that org.
 - The channel always opens from the saved `channelLink`, because it's a private channel and may not show in the channel list.
 - Never sign in to Google.
-- If Microsoft asks for sign-in, never submit the prefilled number 0102112229. Use chris.herzog@gmail.com and send the emailed code, then hand you the screen to type it. Codes are never asked for in chat.
+- If Microsoft asks for sign-in, never submit the prefilled number 0102112229. Use xxx@gmail.com and send the emailed code, then hand you the screen to type it. Codes are never asked for in chat.
 - If Planner shows HTTP 400 "Request Too Long," stop and ask you before clearing Microsoft cookies.
 
 ## Reliability
@@ -16,7 +16,7 @@ These are the current requirements for the Planner → Planner - Zog routine, ta
 - The state file keeps only 2 days of `posted` entries and 14 days of notes. Older entries are archived.
 
 ## Planner read
-- Read General > Planner, plan "2026 Season," filtered to chris.herzog (GUEST).
+- Read General > Planner, plan "2026 Season," filtered to xxx (GUEST).
 - For each task, capture the title, bucket, progress, labels, due date, priority, assignees, task id, Notes, and Task Chat.
 - Skip Completed tasks and anything in the Done or Won't do buckets.
 - If the read fails, post and delete nothing.
