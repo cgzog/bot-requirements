@@ -1,15 +1,15 @@
 # Review-bot 3061 Requirements
 
 ## Access
-- Use the Onshape web UI in the box browser, signed in as **zog** (chris.herzog@gmail.com).
+- Use the Onshape web UI in the box browser, signed in as **xxx** (xxx@gmail.com).
 - Sign in through the secure form (email step, then password step). The session expires every few hours.
-- Never ask Chris for API keys.
+- Never ask xxx for API keys.
 
 ## Hard rules
 - Never change any Onshape document. Reviews are fully read-only: no edits, renames, material changes, or saved dialogs.
 - Open a sketch only if a rule requires it, and change nothing.
-- If a new or changed rule would require opening sketches, flag it to Chris when it's proposed and get his confirmation before adding it.
-- Manual runs only. No recurring schedule until Chris explicitly asks for one.
+- If a new or changed rule would require opening sketches, flag it to xxx when it's proposed and get his confirmation before adding it.
+- Manual runs only. No recurring schedule until xxx explicitly asks for one.
 
 ## Scope
 - Classroom: **FRC Team 3061**
@@ -38,9 +38,9 @@
 ## Output format (one block per flagged document)
 - Subject: `Review-bot 3061 review comments for "<doc name>"`
 - `Onshape document: <link>`
-- `Last modified by <NAME> at <DATE/TIME>`, read from the Details panel in the document's own folder view, not search. Chris's edits show as "me".
+- `Last modified by <NAME> at <DATE/TIME>`, read from the Details panel in the document's own folder view, not search. xxx's edits show as "me".
 - One finding per line.
 
 ## Delivery
-- Results go to Chris in this chat.
+- Results go to xxx in this chat.
 - No Teams posts, no @mentions, and no cleanup of old posts.
